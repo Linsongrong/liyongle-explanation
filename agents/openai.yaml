@@ -1,7 +1,7 @@
 interface:
   display_name: "李永乐式结构化讲解"
-  short_description: "用公开课式的问题、直觉、公式与递进推导结构讲清复杂知识"
-  default_prompt: "使用 $liyongle-explanation，像李永乐老师公开课那样拆解并讲明白这个问题。"
+  short_description: "用公开课式递进推导，默认以图文并茂、可交互的 HTML 讲清知识"
+  default_prompt: "使用 $liyongle-explanation，借鉴李永乐老师公开课的教学结构，以图文并茂、可交互的 HTML 讲明白这个问题。"
 
 policy:
   allow_implicit_invocation: false
